@@ -94,9 +94,6 @@ export const CustomIcons = () => {
           <Heading fontSize="xl" textAlign="center">
             Woohoo! All steps completed!
           </Heading>
-          <Button mx="auto" mt={6} size="sm" onClick={reset} >
-            Reset
-          </Button>
         </Flex>
       ) : (       
            
